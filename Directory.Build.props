@@ -1,0 +1,7 @@
+<Project>
+  <!-- Applies to every project under this folder, except power-platform/ (it has its own empty props file). -->
+  <PropertyGroup>
+    <Nullable>enable</Nullable>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+</Project>
