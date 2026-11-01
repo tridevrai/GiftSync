@@ -1,0 +1,34 @@
+# Private notes (never commit)
+secret.md
+HANDOVER_PRIVATE.md
+CLAUDE.md
+
+# Build output
+bin/
+obj/
+TestResults/
+*.binlog
+
+# Power Platform solution exports (commit the unpacked source only)
+*.zip
+
+# Secrets and local settings (commit *.sample.* files instead)
+local.settings.json
+appsettings.*.local.json
+secrets.json
+*.env
+.env
+*.pfx
+*.pem
+
+# Editors and OS
+.vs/
+.vscode/
+.idea/
+*.user
+.DS_Store
+
+# Azurite local storage emulator
+__azurite_db_*
+__blobstorage__/
+__queuestorage__/
