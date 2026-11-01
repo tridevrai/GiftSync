@@ -1,0 +1,3 @@
+<Project>
+  <!-- Stops the repo-root Directory.Build.props applying to the solution project and the WhoAmI probe. -->
+</Project>
