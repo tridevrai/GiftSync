@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityRelationship Name="business_unit_hl_donation" />
+  <EntityRelationship Name="hl_account_hl_donation_548" />
+  <EntityRelationship Name="hl_contact_hl_donation_548" />
+  <EntityRelationship Name="lk_hl_donation_createdby" />
+  <EntityRelationship Name="lk_hl_donation_modifiedby" />
+  <EntityRelationship Name="owner_hl_donation" />
+  <EntityRelationship Name="team_hl_donation" />
+  <EntityRelationship Name="user_hl_donation" />
+</EntityRelationships>
